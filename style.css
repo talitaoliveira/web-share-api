@@ -1,0 +1,16 @@
+* {
+    font-family: Arial;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    padding: 20px;
+    font-size: 3rem;
+}
